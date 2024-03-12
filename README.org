@@ -1,0 +1,4 @@
+* You can WHAT
+Oh my
+
+Why does [[https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes][the manual]] NOT mention this!?
