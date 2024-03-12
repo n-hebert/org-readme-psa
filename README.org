@@ -1,13 +1,20 @@
 * You can WHAT
+[[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hmcjFkeGFoZ2tlbmIyaHVsemg2ajd3Zjd1N2ExdzV3N2t2eGMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72F8t9TDi2xVnxOE/giphy.gif]]
+
 Oh my.
 
-Look at that file, fellow [[https://orgmode.org/][Org-moders]]!
-That's an .org file! This readme is an Org file!
+** Look at that README file, fellow [[https://orgmode.org/][Org-moders]]!
+ - That's an .org file!
+ - This readme is an Org file!
 
-* Why does [[https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes][the manual]] NOT mention this!?
+** Why does [[https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes][the manual]] NOT mention this!?
+GitHub!?
+** How is [[https://docs.github.com/en/search?query=readme.org][this search]] blank!?
+[[https://github.com/github][@GitHub]] !!
 
-* How is [[https://docs.github.com/en/search?query=readme.org][this search]] blank!?
+* MFW I'm never using README.md again
 
+[[https://media1.tenor.com/m/BBLx2LmvQzMAAAAC/nicolas-cage-the-rock.gif]]
 * Acknowledgements
 
 I would like to shout the heck out of [[https://github.com/xiliuya][xiliuya]] for casually showing this functionality off in [[https://github.com/xiliuya/org-roam-capture-extension/][org-roam-capture-extension]].
