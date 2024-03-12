@@ -22,3 +22,8 @@ I would like to shout the heck out of [[https://github.com/xiliuya][xiliuya]] fo
 This is a game-changer.
 
 Share this to other Org Moders!
+
+* P.S.
+It *also* works on:
+ - [[https://gitlab.com/n-hebert/org-readme-psa][GitLab]]
+ - [[https://codeberg.org/n-hebert/org-readme-psa][Forgejo/Gitea]]
