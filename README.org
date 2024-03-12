@@ -1,4 +1,17 @@
 * You can WHAT
-Oh my
+Oh my.
 
-Why does [[https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes][the manual]] NOT mention this!?
+Look at that file, fellow [[https://orgmode.org/][Org-moders]]!
+That's an .org file! This readme is an Org file!
+
+* Why does [[https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes][the manual]] NOT mention this!?
+
+* How is [[https://docs.github.com/en/search?query=readme.org][this search]] blank!?
+
+* Acknowledgements
+
+I would like to shout the heck out of [[https://github.com/xiliuya][xiliuya]] for casually showing this functionality off in [[https://github.com/xiliuya/org-roam-capture-extension/][org-roam-capture-extension]].
+
+This is a game-changer.
+
+Share this to other Org Moders!
